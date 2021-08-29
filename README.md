@@ -1,2 +1,2 @@
-# paper_house_wiki
+# paper_house_pedia
 ペーパーハウスのwikiサイトを作成する
