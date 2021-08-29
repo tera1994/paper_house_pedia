@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+main {
+    position: relative;
+    top: 100px;
+}
