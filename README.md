@@ -1,1 +1,1 @@
-# paper_house_wiki
+# paper_house_pedia
