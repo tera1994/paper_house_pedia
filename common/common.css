@@ -7,3 +7,9 @@ main {
     position: relative;
     top: 100px;
 }
+
+.flex-container {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
